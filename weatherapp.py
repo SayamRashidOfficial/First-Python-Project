@@ -6,7 +6,10 @@ from timezonefinder import TimezoneFinder
 from datetime import datetime
 import requests
 import pytz
+ 
 
+
+ 
 root=Tk()
 root.title("Weather App")
 root.geometry("900x500+300+200")
